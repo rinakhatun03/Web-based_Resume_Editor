@@ -12,23 +12,24 @@ A web-based resume editor that allows users to
 
 ## Project Structure
 
-resume-editor/  
-├── frontend/   # React.js application  
-|    ├── public/
-|    |    ├── index.html
-|    ├── src/
-|    |    ├── components/
-|    |    |    ├── SectionEditor.js
-|    |    ├── app.js
-|    |    ├── index.js
-|    ├── .env
-|    ├── package.json
-|    ├── package-lock.json
-├── backend/    # FastAPI server
-|    ├── main.py
-|    ├── requirements.txt
-|    ├── saved_resumes/
-└── README.md
+resume-editor/    
+├── frontend/  
+│   ├── public/  
+│   │   └── index.html  
+│   ├── src/  
+│   │   ├── components/   
+│   │   │   └── SectionEditor.js  
+│   │   ├── App.js  
+│   │   └── index.js  
+│   ├── .env  
+│   ├── package.json  
+│   └── package-lock.json  
+├── backend/  
+│   ├── main.py  
+│   ├── requirements.txt  
+│   └── saved_resumes/  
+└── README.md  
+
 
 ---
 
