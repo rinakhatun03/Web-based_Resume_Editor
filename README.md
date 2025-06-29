@@ -13,7 +13,7 @@ A web-based resume editor that allows users to
 ## Project Structure
 
 resume-editor/  
-├── frontend/   # React.js application
+├── frontend/   # React.js application  
 |    ├── public/
 |    |    ├── index.html
 |    ├── src/
